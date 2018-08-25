@@ -2,7 +2,32 @@ body {
   font-family: Helvetica;
   text-align: center;
 }
+h1 {
+  font-size: 70px;
+}
 .front {
-  background-image: url('../images/background.png');
+  background-image: url('../images/background.jpg');
   color: white;
+}
+.front h2 {
+  font-size: 23px;
+}
+.nav {
+  font-size: 18px;
+  color: white;
+}
+.information h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 23px;
+}
+.information p {
+  font-size: 14px;
+}
+.down {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
 }
